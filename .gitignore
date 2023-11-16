@@ -1,3 +1,5 @@
-./.bsp
-./.idea
+.idea
+.bsp
 spark-warehouse
+target
+src/main/resources/*.csv
